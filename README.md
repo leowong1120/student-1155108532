@@ -14,11 +14,11 @@ Programming Languages I known:
 ## As my own
 To Do:
 - [x] study at university
-- [] Graduate
-- [] Travel the whole world
-- [] buy a house and car
-- [] get rich
-- [] die peacefully
+- [ ] Graduate
+- [ ] Travel the whole world
+- [ ] buy a house and car
+- [ ] get rich
+- [ ] die peacefully
 
 ## What have I done in CSCI3250
 | Tasks         | My experience | Date  |
