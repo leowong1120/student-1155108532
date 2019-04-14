@@ -13,16 +13,21 @@ Programming Languages I known:
 
 ## As my own
 To Do:
-[x] study at university
-[] Graduate
-[] Travel the whole world
-[] buy a house and car
-[] get rich
-[] die peacefully
+- [x] study at university
+- [] Graduate
+- [] Travel the whole world
+- [] buy a house and car
+- [] get rich
+- [] die peacefully
 
 ## What have I done in CSCI3250
-| Tasks         | My experience | Cool  |
+| Tasks         | My experience | Date  |
 | ------------- |:-------------:| -----:|
-| Visit 1       | right-aligned | $1600 |
-| Visit 2       | centered      |   $12 |
-| individual article | are neat      |    $1 |
+| Presentation | Automation | 22/1 |
+| Visit 1       | nexusguard | 12/2 |
+| Visit 2       | MTR depot      |   26/2 |
+| individual article | Tech addiction & Digital Parenting  |    26/3 |
+| Project Milestone 1 | Learn to use github | 30/3 |
+| Project Milestone 2 | create a repo | 14/4 |
+| Quiz | Will be done | 16/4 |
+| Project Milestone 3 | Unknown | 23/4|
